@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "QUINTILA CALCULATOR",
+    "slug": "quintila-calculator",
+    "version": "1.0.0",
+    "description": "A modern, customizable calculator with five color themes.",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#080d1b"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#080d1b"
+      }
+    }
+  }
+}
